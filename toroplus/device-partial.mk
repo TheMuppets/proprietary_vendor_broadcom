@@ -12,6 +12,6 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-# Broadcom blob(s) necessary for Toro hardware
+# Broadcom blob(s) necessary for ToroPlus hardware
 PRODUCT_PACKAGES := \
     bcm4330
